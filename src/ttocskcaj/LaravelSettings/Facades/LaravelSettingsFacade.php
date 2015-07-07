@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Facade;
 
-class SettingsFacade extends Facade {
+class LaravelSettingsFacade extends Facade {
 
     /**
      * Get the binding in the IoC container
